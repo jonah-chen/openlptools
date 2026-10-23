@@ -1,0 +1,3 @@
+# Vendored sources are committed exactly as shipped, so the root ignore rules
+# (build/, x86/, *.exp, ...) must not apply here.
+!*
